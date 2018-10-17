@@ -1,0 +1,15 @@
+{
+  "name": "jest-snapshot-interactive-mode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:named": "jest ./named.spec.js",
+    "test:notnamed": "jest ./notnamed.spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
+}
